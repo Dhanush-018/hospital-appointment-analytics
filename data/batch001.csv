@@ -1,0 +1,101 @@
+appointment_id,patient_id,patient_name,patient_age,patient_gender,patient_city,doctor_id,doctor_name,department,appointment_date,consultation_fee,test_charge,appointment_status
+A0001,P1001,Aarav Sharma,34,M,Bangalore,D204,Dr. Anjali,General Medicine,11/24/2026,750,150,Completed
+A0002,P1002,Ananya Rao,28,F,Mysore,D207,Dr. Ajay,ENT,4/25/2026,400,750,Completed
+A0003,P1003,Vikram Kumar,52,M,Chennai,D202,Dr. Kavya,Neurology,10/7/2026,1000,0,Completed
+,P1004,Meera Nair,45,F,Bangalore,D205,Dr. Prakash,Dermatology,1/16/2026,600,500,Completed
+A0005,P1005,Rahul Verma,61,M,Hyderabad,D208,Dr. Deepa,Gynecology,11/5/2026,600,750,Completed
+A0006,P1006,Sneha Reddy,39,F,Mysore,D203,Dr. Suresh,Orthopedics,10/7/2026,1200,500,Completed
+A0007,P1007,Arjun Patel,23,M,Bangalore,D207,Dr. Ajay,ENT,5/23/2026,300,1000,Scheduled
+A0008,P1008,Priya Iyer,31,F,Chennai,D202,Dr. Kavya,Neurology,3/23/2026,800,250,Scheduled
+A0009,P1009,Kiran Shetty,-1,M,Hyderabad,D205,Dr. Prakash,Dermatology,3/21/2026,800,0,Completed
+A0010,P1010,Divya Menon,56,F,Bangalore,D208,Dr. Deepa,Gynecology,2/17/2026,800,1000,Completed
+A0011,P1011,Sanjay Das,19,M,Mysore,D203,Dr. Suresh,Orthopedics,6/26/2026,300,750,Completed
+A0012,P1012,Lakshmi Hegde,67,F,Chennai,D206,Dr. Neha,Pediatrics,8/24/2026,1000,0,Completed
+A0013,P1013,Naveen Gowda,42,M,Bangalore,D201,Dr. Ramesh,Cardiology,10/10/2026,800,500,Completed
+A0014,P1014,,36,F,Hyderabad,D205,Dr. Prakash,Dermatology,4/9/2026,300,-75,Scheduled
+A0015,P1015,Manoj Singh,58,M,Mysore,D208,Dr. Deepa,Gynecology,4/27/2026,400,1000,Scheduled
+A0016,,Keerthi S,26,F,Bangalore,D203,Dr. Suresh,Orthopedics,4/30/2026,1000,250,Scheduled
+A0017,P1017,Rohit Bhat,49,M,Chennai,D206,Dr. Neha,Pediatrics,8/21/2026,800,150,Completed
+A0018,P1018,Farah Khan,33,F,Hyderabad,D201,Dr. Ramesh,Cardiology,7/9/2026,750,750,Completed
+A0019,P1019,Harish Rao,72,M,Bangalore,D204,Dr. Anjali,General Medicine,2/6/2026,500,500,Completed
+A0020,P1020,Nisha Thomas,41,F,Mysore,D207,Dr. Ajay,ENT,5/6/2026,1000,250,Completed
+A0021,P1001,Aarav Sharma,34,M,Bangalore,D203,Dr. Suresh,Orthopedics,11/24/2026,600,750,Scheduled
+A0022,P1002,Ananya Rao,28,F,Mysore,D206,Dr. Neha,Pediatrics,6/16/2026,300,150,Scheduled
+A0023,P1003,Vikram Kumar,52,M,Chennai,D201,Dr. Ramesh,Cardiology,1/17/2026,1000,250,Scheduled
+A0024,P1004,Meera Nair,45,F,Bangalore,D204,Dr. Anjali,General Medicine,2/3/2026,800,150,Completed
+A0025,P1005,Rahul Verma,61,M,Hyderabad,D207,Dr. Ajay,ENT,9/13/2026,1200,150,Completed
+A0026,P1006,Sneha Reddy,39,F,Mysore,D202,Dr. Kavya,Neurology,5/16/2026,750,750,Completed
+A0027,P1007,Arjun Patel,23,M,Bangalore,D205,Dr. Prakash,Dermatology,10/27/2026,1000,250,Completed
+A0028,P1008,Priya Iyer,31,F,Chennai,D201,Dr. Ramesh,Cardiology,4/23/2026,500,500,Cancelled
+A0029,P1009,Kiran Shetty,47,M,Hyderabad,D204,Dr. Anjali,General Medicine,9/10/2026,300,1000,Completed
+A0030,P1010,Divya Menon,56,Unknown,Bangalore,D207,Dr. Ajay,ENT,2/26/2026,500,1000,Completed
+A0031,P1011,Sanjay Das,19,M,Mysore,D202,Dr. Kavya,Neurology,8/5/2026,1000,350,Completed
+A0032,P1012,Lakshmi Hegde,67,F,Chennai,D205,Dr. Prakash,Dermatology,11/2/2026,750,500,Cancelled
+A0033,P1013,Naveen Gowda,42,M,Bangalore,D208,Dr. Deepa,Gynecology,1/6/2026,400,750,Scheduled
+A0034,P1014,Pooja Kulkarni,36,F,Hyderabad,,,Orthopedics,10/2/2026,800,0,Scheduled
+A0035,P1015,Manoj Singh,58,M,Mysore,D207,Dr. Ajay,ENT,5/31/2026,1200,0,Completed
+A0036,P1016,Keerthi S,26,F,Bangalore,D202,Dr. Kavya,Neurology,5/15/2026,500,500,Cancelled
+A0037,P1017,Rohit Bhat,49,M,Chennai,D205,Dr. Prakash,Dermatology,2/24/2026,750,1000,Scheduled
+A0038,P1018,Farah Khan,33,F,Hyderabad,D208,Dr. Deepa,Gynecology,11/24/2026,600,150,Completed
+A0039,P1019,Harish Rao,72,M,Bangalore,D203,Dr. Suresh,Orthopedics,7/11/2026,300,500,Scheduled
+A0040,P1020,Nisha Thomas,41,F,,D206,Dr. Neha,Pediatrics,6/15/2026,400,250,Completed
+A0041,P1001,Aarav Sharma,34,M,Bangalore,D201,Dr. Ramesh,Cardiology,6/7/2026,600,500,Completed
+A0042,P1002,Ananya Rao,28,F,Mysore,D205,Dr. Prakash,Dermatology,2/10/2026,1200,1000,Completed
+A0043,P1003,Vikram Kumar,52,M,Chennai,D208,Dr. Deepa,Gynecology,2/5/2026,500,150,Cancelled
+A0044,P1004,Meera Nair,45,F,Bangalore,D203,Dr. Suresh,,9/1/2026,500,250,Cancelled
+A0045,P1005,Rahul Verma,61,M,Hyderabad,D206,Dr. Neha,Pediatrics,9/28/2026,1000,150,Scheduled
+A0046,P1006,Sneha Reddy,39,F,Mysore,D201,Dr. Ramesh,Cardiology,10/4/2026,600,750,Scheduled
+A0047,P1007,Arjun Patel,23,M,Bangalore,D204,Dr. Anjali,General Medicine,6/9/2026,800,350,Completed
+A0048,P1008,Priya Iyer,31,F,Chennai,D207,Dr. Ajay,ENT,9/22/2026,600,150,Completed
+A0049,P1009,Kiran Shetty,47,M,Hyderabad,D203,Dr. Suresh,Orthopedics,2/2/2026,600,500,Completed
+A0050,P1010,Divya Menon,56,F,Bangalore,D206,Dr. Neha,Pediatrics,4/23/2026,300,150,Completed
+A0051,P1011,Sanjay Das,19,M,Mysore,D201,Dr. Ramesh,Cardiology,2/4/2026,800,0,Cancelled
+A0052,P1012,Lakshmi Hegde,67,F,Chennai,D204,Dr. Anjali,General Medicine,9/21/2026,1200,150,Completed
+A0053,P1013,Naveen Gowda,42,M,Bangalore,D207,Dr. Ajay,ENT,10/4/2026,1200,150,Completed
+A0054,P1014,Pooja Kulkarni,36,F,Hyderabad,D202,Dr. Kavya,Neurology,8/31/2026,600,0,Scheduled
+A0055,P1015,Manoj Singh,58,M,Mysore,D205,Dr. Prakash,Dermatology,2/19/2026,800,350,Scheduled
+A0056,P1016,Keerthi S,26,F,Bangalore,D201,Dr. Ramesh,Cardiology,7/30/2026,300,750,Completed
+A0057,P1017,Rohit Bhat,49,M,Chennai,D204,Dr. Anjali,General Medicine,11/27/2026,1000,750,Completed
+A0058,P1018,Farah Khan,33,F,Hyderabad,D207,Dr. Ajay,ENT,6/23/2026,400,150,Scheduled
+A0059,P1019,Harish Rao,72,M,Bangalore,D202,Dr. Kavya,Neurology,4/9/2026,1200,150,Completed
+A0060,P1020,Nisha Thomas,41,F,Mysore,D205,Dr. Prakash,Dermatology,18/15/2026,1200,150,Completed
+A0061,P1001,Aarav Sharma,34,M,Bangalore,D208,Dr. Deepa,Gynecology,2/8/2026,400,0,Completed
+A0062,P1002,Ananya Rao,28,F,Mysore,D203,Dr. Suresh,Orthopedics,10/4/2026,400,1000,Scheduled
+A0063,P1003,Vikram Kumar,52,M,Chennai,D207,Dr. Ajay,ENT,5/2/2026,1200,350,Completed
+A0064,P1004,Meera Nair,45,F,Bangalore,D202,Dr. Kavya,Neurology,4/20/2026,300,150,Scheduled
+A0065,P1005,Rahul Verma,61,M,Hyderabad,D205,Dr. Prakash,Dermatology,7/14/2026,1000,250,Completed
+A0066,P1006,Sneha Reddy,39,F,Mysore,D208,Dr. Deepa,Gynecology,8/21/2026,1200,150,Completed
+A0067,P1007,Arjun Patel,23,M,Bangalore,D203,Dr. Suresh,Orthopedics,4/8/2026,300,500,Completed
+A0068,P1008,Priya Iyer,31,F,Chennai,D206,Dr. Neha,Pediatrics,10/5/2026,800,0,Completed
+A0069,P1009,Kiran Shetty,47,M,Hyderabad,D201,Dr. Ramesh,Cardiology,1/26/2026,500,0,Completed
+A0070,P1010,Divya Menon,56,F,Bangalore,D205,Dr. Prakash,Dermatology,9/18/2026,500,0,Completed
+A0071,P1011,Sanjay Das,19,M,Mysore,D208,Dr. Deepa,Gynecology,11/1/2026,600,350,Completed
+A0072,P1012,Lakshmi Hegde,67,F,Chennai,D203,Dr. Suresh,Orthopedics,3/3/2026,600,500,Cancelled
+A0073,P1013,Naveen Gowda,42,M,Bangalore,D206,Dr. Neha,Pediatrics,11/1/2026,400,350,Completed
+A0074,P1014,Pooja Kulkarni,36,F,Hyderabad,D201,Dr. Ramesh,Cardiology,10/26/2026,800,250,Completed
+A0075,P1015,Manoj Singh,58,M,Mysore,D204,Dr. Anjali,General Medicine,4/15/2026,-1,150,Invalid_Value
+A0076,P1016,Keerthi S,26,F,Bangalore,D207,Dr. Ajay,ENT,5/16/2026,750,350,Completed
+A0077,P1017,Rohit Bhat,49,M,Chennai,D203,Dr. Suresh,Orthopedics,6/11/2026,400,0,Cancelled
+A0078,P1018,Farah Khan,33,F,Hyderabad,D206,Dr. Neha,Pediatrics,8/23/2026,400,0,Completed
+A0079,P1019,Harish Rao,72,M,Bangalore,D201,Dr. Ramesh,Cardiology,10/3/2026,750,150,Completed
+A0080,P1020,Nisha Thomas,41,F,Mysore,D204,Dr. Anjali,General Medicine,6/28/2026,600,250,Scheduled
+A0081,P1001,Aarav Sharma,34,M,Bangalore,D207,Dr. Ajay,ENT,5/26/2026,750,500,Completed
+A0082,P1002,Ananya Rao,28,F,Mysore,D202,Dr. Kavya,Neurology,9/28/2026,750,750,Completed
+A0083,P1003,Vikram Kumar,52,M,Chennai,D205,Dr. Prakash,Dermatology,2/23/2026,500,250,Cancelled
+A0084,P1004,Meera Nair,45,F,Bangalore,D201,Dr. Ramesh,Cardiology,3/1/2026,500,250,Scheduled
+A0085,P1005,Rahul Verma,61,M,Hyderabad,D204,Dr. Anjali,General Medicine,5/25/2026,800,150,Completed
+A0086,P1006,Sneha Reddy,39,F,Mysore,D207,Dr. Ajay,ENT,11/21/2026,1200,250,Scheduled
+A0087,P1007,Arjun Patel,23,M,Bangalore,D202,Dr. Kavya,Neurology,1/27/2026,1000,1000,Completed
+A0088,P1008,Priya Iyer,31,F,Chennai,D205,Dr. Prakash,Dermatology,5/22/2026,800,1000,Completed
+A0089,P1009,Kiran Shetty,47,M,Hyderabad,D208,Dr. Deepa,Gynecology,3/8/2026,750,150,Completed
+A0090,P1010,Divya Menon,56,F,Bangalore,D203,Dr. Suresh,Orthopedics,8/15/2026,1000,500,Completed
+A0091,P1011,Sanjay Das,19,M,Mysore,D207,Dr. Ajay,ENT,1/5/2026,500,500,Completed
+A0092,P1012,Lakshmi Hegde,67,F,Chennai,D202,Dr. Kavya,Neurology,1/19/2026,500,350,Scheduled
+A0093,P1013,Naveen Gowda,42,M,Bangalore,D205,Dr. Prakash,Dermatology,3/7/2026,800,1000,Completed
+A0094,P1014,Pooja Kulkarni,36,F,Hyderabad,D208,Dr. Deepa,Gynecology,1/21/2026,600,750,Scheduled
+A0095,P1015,Manoj Singh,58,M,Mysore,D203,Dr. Suresh,Orthopedics,5/8/2026,800,1000,Scheduled
+A0096,P1016,Keerthi S,26,F,Bangalore,D206,Dr. Neha,Pediatrics,10/14/2026,1000,500,Scheduled
+A0097,P1017,Rohit Bhat,49,M,Chennai,D201,Dr. Ramesh,Cardiology,3/21/2026,600,1000,Cancelled
+A0098,P1018,Farah Khan,33,F,Hyderabad,D205,Dr. Prakash,Dermatology,3/25/2026,500,350,Cancelled
+A0082,P1002,Ananya Rao,28,F,Mysore,D202,Dr. Kavya,Neurology,9/28/2026,750,750,Completed
+A0083,P1003,Vikram Kumar,52,M,Chennai,D205,Dr. Prakash,Dermatology,2/23/2026,500,250,Cancelled
