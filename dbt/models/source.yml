@@ -1,0 +1,14 @@
+version: 2
+
+sources:
+  - name: bronze
+    database: hospital_appointments
+    schema: bronze
+    tables:
+      - name: all_raw_data
+
+  - name: gold
+    database: hospital_appointments
+    schema: gold
+    tables:
+      - name: dim_doctor
